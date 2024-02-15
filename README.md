@@ -2,11 +2,10 @@
 
 Data Visualizations:
 
-![Total_Price_Over_Time](https://github.com/tjodonoghue/Project-1/assets/147662348/f0394ea9-c9ff-418e-98dc-69f9d0c9aef8)
+![Interest_vs_Amounts](https://github.com/tjodonoghue/Project-1/assets/147662348/c6057802-3cf1-47dc-b078-c37e1f7c4900)
+![Total_Price_Over_Time](https://github.com/tjodonoghue/Project-1/assets/147662348/25a04cd9-eff3-42e5-bd8c-ae4ab8efc645)
+![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/7530bda0-ba5b-45b9-8c7a-84b1044950b0)
 
-![Interest_vs_Payments](https://github.com/tjodonoghue/Project-1/assets/147662348/47f41f90-899c-4f10-b806-705e8c36a209)
-
-![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/2e04688a-52c5-4e00-b99b-f76ad3ad0a0c)
 
 
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
