@@ -1,5 +1,12 @@
 # Project-1
-a shared repository for team TBDs first project
+
+Data Visualizations:
+
+![Total_Price_Over_Time](https://github.com/tjodonoghue/Project-1/assets/147662348/f0394ea9-c9ff-418e-98dc-69f9d0c9aef8)
+
+![Interest_vs_Payments](https://github.com/tjodonoghue/Project-1/assets/147662348/47f41f90-899c-4f10-b806-705e8c36a209)
+
+![Interest_vs_Payments](https://github.com/tjodonoghue/Project-1/assets/147662348/6eb17c2a-6c78-4fd8-a901-c3671338ce8b)
 
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
