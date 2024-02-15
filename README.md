@@ -1,16 +1,17 @@
 # Project-1
 
-Data Visualizations:
-
-![Interest_vs_Amounts](https://github.com/tjodonoghue/Project-1/assets/147662348/c6057802-3cf1-47dc-b078-c37e1f7c4900)
-![Total_Price_Over_Time](https://github.com/tjodonoghue/Project-1/assets/147662348/25a04cd9-eff3-42e5-bd8c-ae4ab8efc645)
-![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/7530bda0-ba5b-45b9-8c7a-84b1044950b0)
-
-
+Team TBD - Group 3
 
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
+Data Visualizations:
+
+![Interest_vs_Amounts](https://github.com/tjodonoghue/Project-1/assets/147662348/c6057802-3cf1-47dc-b078-c37e1f7c4900)
+![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/7530bda0-ba5b-45b9-8c7a-84b1044950b0)
+
 #
+
+Research Question:
 
 Was 2018 a good time to buy a used car? We'll analyze car price data and economic data to find trends across time to see how car prices in 2018 fare against previous car prices. Will 2018 used car prices be a peak or will prices continue to rise?
 
