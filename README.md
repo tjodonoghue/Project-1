@@ -40,11 +40,13 @@ Further analysis could include  comparing car values to local mean income to fin
 
 3. How did interest rates affect used car prices?
 
-Average annual interest rates for used cars have been climbing steadily since 2009. In 2009, the rate was 10.39% and in 2018 it was 14.14%. There was a dip in 2016 and 2017, but they rose to 2016 levels in 2018.
+Average annual interest rates for used cars climbed steadily since 2009. There was a dip after and 2017, but they rose to 2015 levels in 2018.
 
-Average total car payments (which equal the average used car loan amount plus interest) rose modestly in the timeframe, from $28621.14 in 2009 to $30868.03 in 2018. The payment amount dipped in 2011 and 2012 (while interest rates climbed). However, they rose sharply in 2013 and tracked closely with interest rate trends. There was a similar dip in 2016 and 2017, only to again rise sharply in 2018.
+The trend of average total loan amounts was almost the opposite of interest rates.
 
-The data suggest that interest rates will continue to rise in 2019 following the previous trends, and total payments will follow suit.
+The data suggest that interest rates will continue to rise in 2019.
+
+While it would seem that the average loan amount would have decreased in 2018, it increased, indicating that despite the increased pain from a higher rate, a higher loan was necessary just to purchase an average car.
 
 Looking at the average total payment price for ALL used cars by year, few brands had used cars that sold for less than or equal to that average total payment. The number of brands with used cars meeting that criteria declined as the years went on. In 2018, there were only 4 car brands whose used cars had a price (adjusted for inflation) that fell below the average payment price.
 
