@@ -3,11 +3,11 @@ a shared repository for team TBDs first project
 
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
-###
+#
 
 Was 2018 a good time to buy a used car? We'll analyze car price data and economic data to find trends across time to see how car prices in 2018 fare against previous car prices. Will 2018 used car prices be a peak or will prices continue to rise?
 
-###
+#
 
 Main Findings:
 
@@ -19,7 +19,7 @@ Still, if you had to buy a used car in 2018, it would make sense to travel to Wa
 
 Overall, used car prices were on the upswing.
 
-###
+#
 
 Methodology and Assumptions:
 
@@ -35,7 +35,7 @@ The data did not break out cars by type (sedan, truck, etc.; gas, hybrid, electr
 
 We also did not take new car sales, new or used car inventories, or other externalities (gas prices, import tariffs, the cost of steel, etc.) into account. This data could help us further predict whether used car pricing would increase or decrease after 2018.
 
-###
+#
 
 Research Questions:
 
@@ -49,14 +49,14 @@ The percentage increase in average car prices has outpaced the percentage increa
 
 As car prices continue to rise faster than income, consumers may adjust their preferences towards more economical transportation options.
 
-##
+#
 
 2. How do prices compare across states?
 Data shows that over car prices are lowest in the mid-Atlantic and  Great Lakes regions, and highest in the Southwest. Washington D.C. has the lowest car prices of all analyzed states.
  
 Further analysis could include  comparing car values to local mean income to find where the greatest discrepancy is between car value and income.
 
-###
+#
 
 3. How did interest rates affect used car prices?
 
@@ -70,7 +70,7 @@ While it would seem that the average loan amount would have decreased in 2018, i
 
 Looking at the average total payment price for ALL used cars by year, few brands had used cars that sold for less than or equal to that average total payment. The number of brands with used cars meeting that criteria declined as the years went on. In 2018, there were only 4 car brands whose used cars had a price (adjusted for inflation) that fell below the average payment price.
 
-####
+#
 
 4. Will Car Prices Go Up or Down/Factors to Consider
 
@@ -80,7 +80,7 @@ Additionally, the price of used cars is trending toward the average per capita i
 
 There is some correlation between the mileage of a used car and the average cost, however, based on the linear regression analysis and the coefficient of determination value of 0.201 only about 20% of the variability in used car prices is due to the mileage.
 
-###
+#
 
 Conclusion:
 
