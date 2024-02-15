@@ -1,7 +1,7 @@
 # Project-1
 a shared repository for team TBDs first project
 
-Vroom, Boom, or Doom: A data analysis exploring if 2018* was a good time to buy a used car.
+Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
 Was 2018 a good time to buy a used car? We'll analyze car price data and economic data to find trends across time to see how car prices in 2018 fare against previous car prices. Will 2018 used car prices be a peak or will prices continue to rise?
 
