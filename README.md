@@ -6,7 +6,8 @@ Data Visualizations:
 
 ![Interest_vs_Payments](https://github.com/tjodonoghue/Project-1/assets/147662348/47f41f90-899c-4f10-b806-705e8c36a209)
 
-![Interest_vs_Payments](https://github.com/tjodonoghue/Project-1/assets/147662348/6eb17c2a-6c78-4fd8-a901-c3671338ce8b)
+![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/2e04688a-52c5-4e00-b99b-f76ad3ad0a0c)
+
 
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
