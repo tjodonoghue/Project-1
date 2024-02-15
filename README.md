@@ -40,7 +40,7 @@ Further analysis could include  comparing car values to local mean income to fin
 
 3. How did interest rates affect used car prices?
 
-Average annual interest rates for used cars climbed steadily since 2009. There was a dip after and 2017, but they rose to 2015 levels in 2018.
+Average annual interest rates for used cars climbed steadily since 2009, despite a dip after a spike in 2015.
 
 The trend of average total loan amounts was almost the opposite of interest rates.
 
